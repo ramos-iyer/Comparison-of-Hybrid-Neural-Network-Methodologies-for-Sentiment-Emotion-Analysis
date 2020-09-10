@@ -33,6 +33,8 @@ Twitter tweets play an important role in every organisation. This project is bas
 
 The below diagram shows the methodology followed for the project and the analysis therein:
 
+![Screenshot1](/images/method.png)
+
 <a id='components'></a>
 
 ### Components
@@ -106,6 +108,22 @@ https://archive.org/details/twitterstream?and[]=year\%3A"2019"
 <a id='screenshots'></a>
 
 ### Screenshots
+
+![Screenshot2](/images/isw_loss.png)
+![Screenshot3](/images/isw_mae.png)
+![Screenshot4](/images/ram_accuracy.png)
+![Screenshot5](/images/ram_conf_matr.png)
+![Screenshot6](/images/ram_loss.png)
+![Screenshot7](/images/ram_postcls.png)
+![Screenshot8](/images/ram_precls.png)
+![Screenshot9](/images/san_accuracy.png)
+![Screenshot10](/images/san_cat_post.png)
+![Screenshot11](/images/san_cat_pre.png)
+![Screenshot12](/images/san_conf.png)
+![Screenshot13](/images/san_wrdcld.png)
+![Screenshot14](/images/shr_accuracy.png)
+![Screenshot15](/images/shr_conf.png)
+![Screenshot16](/images/shr_loss.png)
 
 <a id='config'></a>
 
