@@ -151,6 +151,8 @@ Below are the files and the folders that are part of the project implementation:
 - Sentiment Polarity.ipynb: Contains the code to apply Sentiment Polarity Analysis using Vader Lexicon and Bi-Directional LSTM based DNN model
 - Vader_Emotion Category.ipynb: Contains the code to apply Emotion Classification using Vader Lexicon and LSTM+CNN based DNN model
 
+<a id='credits'></a>
+
 ### Credits and Acknowledgements
 
 * [Archive Team: The Twitter Stream Grab](https://archive.org/details/twitterstream?and[]=year\%3A%222019%22) for providing the data used for this project.
